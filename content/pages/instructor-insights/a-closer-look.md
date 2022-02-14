@@ -2,9 +2,12 @@
 content_type: page
 is_media_gallery: true
 layout: instructor_insights
+learning_resource_types: []
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 7cf88c38-e571-6315-bc92-a6436ff438f6
 title: A Closer Look
+type: CourseSection
 uid: 0f9115a7-377e-1674-0ad3-897c84817162
 videos:
   content:

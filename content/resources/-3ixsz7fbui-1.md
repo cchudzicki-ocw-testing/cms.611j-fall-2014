@@ -4,7 +4,9 @@ description: Transcript of a video of an interview with Miriam Prosnitz, a stude
   from the course, discussing her team project.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/222452008328419681244b6dfdbbd2eb_-3ixsZ7fBUI.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: 22245200-8328-4196-8124-4b6dfdbbd2eb
 ---

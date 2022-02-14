@@ -4,7 +4,9 @@ description: Subtitle file for a lecture video. In this lecture, the professors 
   Project 2 of the class and discuss digital prototyping.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/55c6c185d277575db75f7f2f953cd78d_dE-QgdrtzHw.vtt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: 55c6c185-d277-575d-b75f-7f2f953cd78d
 ---

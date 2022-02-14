@@ -6,7 +6,9 @@ description: Transcript of a video providing a closer look at the development of
   This part focuses on concept presentation.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/eccd12d891f2b4cbbc1a606e2cab4b7b_lxpXowuUdKw.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: eccd12d8-91f2-b4cb-bc1a-606e2cab4b7b
 ---

@@ -4,7 +4,9 @@ description: Subtitle file for a video offering instructor insights on teaching 
   how to solve creative problems as teams.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/fb9a770cdb8059ac9a49fcb1ecf1b64a_Y7cMih9O8es.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: fb9a770c-db80-59ac-9a49-fcb1ecf1b64a
 ---

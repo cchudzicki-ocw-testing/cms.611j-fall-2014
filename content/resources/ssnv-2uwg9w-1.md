@@ -4,7 +4,9 @@ description: "Transcript of a lecture video. In this lecture, the professors dis
   \ the development of video game stories.\t"
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/0471dae99aad7621a8663b1a36aef184_SSnV-2uWG9w.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: 0471dae9-9aad-7621-a866-3b1a36aef184
 ---

@@ -4,7 +4,9 @@ description: Transcript of a video introduction to Sara Verrilli, one of the cou
   instructors.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/19b8d22cf7bf8832864772266bc9a0fd_bhk8Wtgpb1w.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: 19b8d22c-f7bf-8832-8647-72266bc9a0fd
 ---

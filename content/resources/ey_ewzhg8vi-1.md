@@ -4,7 +4,9 @@ description: Transcript of a lecture video. In this lecture, Richard Ludlow and 
   Forsberg from Hexany Audio discuss professional sound design for video games.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/994e8cf94702a7249381bb0b11ffe5b5_Ey_eWZhG8vI.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: 994e8cf9-4702-a724-9381-bb0b11ffe5b5
 ---

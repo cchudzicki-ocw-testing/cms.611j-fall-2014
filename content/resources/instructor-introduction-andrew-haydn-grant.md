@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Meet the Instructors
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Instructor Introduction: Andrew Haydn Grant'
 uid: ef23c1ae-e9b3-a3f4-956a-b2d5e1d82a2e

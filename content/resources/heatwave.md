@@ -9,7 +9,11 @@ image_metadata:
   caption: Heat Wave.
   credit: ''
   image-alt: A screenshot of the game Heat Wave.
+learning_resource_types: []
+parent_title: 'Final Project: Heat Wave'
+parent_type: CourseSection
 resourcetype: Image
 title: Heat Wave
+type: OCWImage
 uid: 4a501186-8ac8-a354-29bc-190fec88ab21
 ---

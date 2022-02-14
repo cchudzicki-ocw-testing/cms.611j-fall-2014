@@ -5,7 +5,9 @@ description: Transcript of a video interview with Pablo Suarez, Associate Direct
   his insights about partnering with the students and instructors in CMS.611J.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/9130acfefe4b626679afe84c6fba72a4_WLjo-mDBiDg.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: 9130acfe-fe4b-6266-79af-e84c6fba72a4
 ---

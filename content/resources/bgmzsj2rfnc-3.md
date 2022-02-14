@@ -4,7 +4,9 @@ description: Transcript of a video of an interview with Tej Chajed, a student fr
   the course, discussing his team project.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/a419b3e8299a0090eecf4124a890cf9c_bgMZSJ2rfNc.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: a419b3e8-299a-0090-eecf-4124a890cf9c
 ---

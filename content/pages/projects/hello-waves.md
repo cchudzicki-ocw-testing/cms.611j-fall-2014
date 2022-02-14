@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
 parent_title: Student Game Projects
+parent_type: CourseSection
 parent_uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 title: 'Final Project: Hello Waves'
+type: CourseSection
 uid: 41d8007e-2d04-e291-e6fb-77f2957ff939
 ---
 

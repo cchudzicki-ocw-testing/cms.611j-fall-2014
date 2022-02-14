@@ -5,7 +5,12 @@ description: Lecture presentation providing an introduction to the course and in
   expectations, and team projects.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/7d5aa5417112862941373710c9950725_MITCMS_611JF14_Sep3InttoCou.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Slides and Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Creating Videogames
+type: OCWFile
 uid: 7d5aa541-7112-8629-4137-3710c9950725
 ---

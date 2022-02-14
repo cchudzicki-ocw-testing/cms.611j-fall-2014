@@ -9,7 +9,9 @@ image_metadata:
   caption: A student playtesting a game.
   credit: Image courtesy of MIT students. Used with permission.
   image-alt: Image of a video game, featuring blue and black shapes on a green background.
+learning_resource_types: []
 resourcetype: Image
 title: Thumbnail of Hello Waves
+type: OCWImage
 uid: 4071a2e7-d5f9-1a9e-342e-fa8dce6c7211
 ---

@@ -4,7 +4,9 @@ description: Subtitle file for a video of an interview with Lenny Martinez, a st
   from the course, discussing his team project.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/def132c03f2a4744483effeeee85640b_jbhbJBtS48w.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: def132c0-3f2a-4744-483e-ffeeee85640b
 ---

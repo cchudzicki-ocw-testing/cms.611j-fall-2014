@@ -6,7 +6,9 @@ description: "Subtitle file for a video that provides a closer look at the devel
   \ how the team took their idea from pitch to product."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/8a2aa23701f73acc176419cb4d274913_lxpXowuUdKw.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: 8a2aa237-01f7-3acc-1764-19cb4d274913
 ---

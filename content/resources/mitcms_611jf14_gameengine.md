@@ -4,7 +4,12 @@ description: 'Assignment to complete a tutorial for one of four game engines: Fl
   HaxeFlixel, Unity3D, or Phaser.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/0ae04c372894a22ed7359fafb9092cb1_MITCMS_611JF14_GameEngine.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Student Game Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Assignment: Game Engine Tutorial'
+type: OCWFile
 uid: 0ae04c37-2894-a22e-d735-9fafb9092cb1
 ---

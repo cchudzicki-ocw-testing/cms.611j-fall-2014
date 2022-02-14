@@ -4,7 +4,12 @@ description: Lecture presentation on prototyping and playtesting video games wit
   paper.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/348ee58d265e61e4760d196bd97b1ad1_MITCMS_611JF14_Paper_Prot.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Slides and Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Paper Prototyping
+type: OCWFile
 uid: 348ee58d-265e-61e4-760d-196bd97b1ad1
 ---

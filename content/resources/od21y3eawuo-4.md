@@ -4,7 +4,9 @@ description: Subtitle file for a video of an interview with Lauren Merriman, a s
   from the course, discussing her team project.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/213b289c69995ef29ae500cafbb18b6f_Od21y3eAwUo.vtt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: 213b289c-6999-5ef2-9ae5-00cafbb18b6f
 ---

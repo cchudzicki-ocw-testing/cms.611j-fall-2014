@@ -4,7 +4,12 @@ description: Project proposal to create a video game on managing the risk of cho
   for schoolchildren in Ghana.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/dcd30f00e7d981befeb453fc4d763c9a_MITCMS_611JF14_choleragame.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Student Game Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Towards a Game on Managing the Risk of Cholera for Schoolchildren in Ghana
+type: OCWFile
 uid: dcd30f00-e7d9-81be-feb4-53fc4d763c9a
 ---

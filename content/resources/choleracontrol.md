@@ -10,7 +10,11 @@ image_metadata:
   caption: Cholera Control.
   credit: ''
   image-alt: A screenshot of the game Cholera Control.
+learning_resource_types: []
+parent_title: 'Final Project: Cholera Control'
+parent_type: CourseSection
 resourcetype: Image
 title: Cholera Control
+type: OCWImage
 uid: 69e1f411-a309-0f84-2b21-fa36db9f1d60
 ---

@@ -4,7 +4,9 @@ description: Subtitle file for a lecture video on software version control and t
   importance of vision statements for video game development.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/1eeb906fc5802585276737649e2a02af_2pfdTSZ-GUM.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: 1eeb906f-c580-2585-2767-37649e2a02af
 ---

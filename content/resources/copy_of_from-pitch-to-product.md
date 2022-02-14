@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Final Project: Hello Waves'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'From Pitch to Product: The Development of Hello Waves'
 uid: bdb33762-3bda-03c9-65a3-6051467bde50

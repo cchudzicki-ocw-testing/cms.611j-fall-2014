@@ -4,7 +4,9 @@ description: Subtitle file for a lecture video. In this lecture, SWERY from Acce
   Games describes his experience in game development.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/c340a860adbe44076fe449f1e851a91e_B1zWyyNoRq8.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: c340a860-adbe-4407-6fe4-49f1e851a91e
 ---

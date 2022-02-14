@@ -4,7 +4,9 @@ description: "Transcript of a lecture video on Agile software development with a
   \ on project management.\t\t\t"
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/25f3d4ada94fe79e2ed9860f303c62c5_nrfl6GAQy2s.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: 25f3d4ad-a94f-e79e-2ed9-860f303c62c5
 ---

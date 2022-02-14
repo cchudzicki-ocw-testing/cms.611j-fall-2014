@@ -4,7 +4,9 @@ description: Subtitle file for a video providing instructor insights on fosterin
   of voice.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/db79c843bc8f6a2e865892ecf90f3389_cBoUvyAaEUY.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: db79c843-bc8f-6a2e-8658-92ecf90f3389
 ---

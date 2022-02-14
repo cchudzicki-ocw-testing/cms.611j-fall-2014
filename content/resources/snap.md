@@ -8,7 +8,11 @@ image_metadata:
   caption: Snap!
   credit: ''
   image-alt: A screenshot of the game Snap!
+learning_resource_types: []
+parent_title: 'Final Project: Snap!'
+parent_type: CourseSection
 resourcetype: Image
 title: Snap!
+type: OCWImage
 uid: 4794dff4-cb70-c0c0-5154-6576a09d7b2a
 ---

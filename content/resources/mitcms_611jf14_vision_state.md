@@ -3,7 +3,12 @@ content_type: resource
 description: Lecture presentation on creating a vision statement for a game project.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/34947c3393fa76b8ef998738a17aae59_MITCMS_611JF14_Vision_State.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Slides and Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Vision Statements
+type: OCWFile
 uid: 34947c33-93fa-76b8-ef99-8738a17aae59
 ---

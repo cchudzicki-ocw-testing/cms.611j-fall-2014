@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
 title: Student Game Projects
+type: CourseSection
 uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 ---
 

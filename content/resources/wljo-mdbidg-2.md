@@ -5,7 +5,9 @@ description: Subtitle file for a video interview with Pablo Suarez, Associate Di
   his insights about partnering with the students and instructors in CMS.611J.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/86165afcc27552db94194c233878d615_WLjo-mDBiDg.vtt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: 86165afc-c275-52db-9419-4c233878d615
 ---

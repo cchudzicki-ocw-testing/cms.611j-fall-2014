@@ -4,7 +4,9 @@ description: Subtitle file for a video introduction to Richard Eberhardt, one of
   course instructors.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/dcec54d6be6d5861862633633acd74fe_HpACiptk990.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: dcec54d6-be6d-5861-8626-33633acd74fe
 ---

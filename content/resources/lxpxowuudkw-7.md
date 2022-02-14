@@ -6,7 +6,9 @@ description: Transcript of a lecture video providing a closer look at the develo
   product. This part focuses on game mechanics brainstorming.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/d68ac3cfadc25ee48771e9d0f12938b5_lxpXowuUdKw.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: d68ac3cf-adc2-5ee4-8771-e9d0f12938b5
 ---

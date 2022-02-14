@@ -5,7 +5,9 @@ description: "Subtitle file for a lecture video. In this lecture, the professors
   \t\t"
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/41376ab9dbc25ba8a19efaea28a1fc61_zzKSn1Y80F4.vtt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: 41376ab9-dbc2-5ba8-a19e-faea28a1fc61
 ---

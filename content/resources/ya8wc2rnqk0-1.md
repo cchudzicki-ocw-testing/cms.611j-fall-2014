@@ -5,7 +5,9 @@ description: "Transcript of a lecture video. In this lecture, the professors dis
   \t\t\t"
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/f00432be36fc70e0928a1c08f7f761cf_Ya8wC2rNQK0.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: f00432be-36fc-70e0-928a-1c08f7f761cf
 ---

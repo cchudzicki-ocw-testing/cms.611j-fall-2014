@@ -4,7 +4,9 @@ description: Subtitle file for a video providing instructor insights on sequenci
   learning experiences.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/4abd466711de999d0d3094f677462d63_lyR4HQ01nos.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: 4abd4667-11de-999d-0d30-94f677462d63
 ---

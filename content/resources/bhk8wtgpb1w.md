@@ -4,7 +4,9 @@ description: Subtitle file for a video introduction to Sara Verrilli, one of the
   instructors.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/0fc7112a253646520062c82d9fdd6265_bhk8Wtgpb1w.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: 0fc7112a-2536-4652-0062-c82d9fdd6265
 ---

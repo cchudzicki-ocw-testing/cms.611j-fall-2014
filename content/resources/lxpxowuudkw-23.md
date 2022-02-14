@@ -6,7 +6,9 @@ description: Subtitle file for a video providing a closer look at the developmen
   product. This part focuses on creating a digital prototype.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/014cf8f455bb5582972b91291ee58ad6_lxpXowuUdKw.vtt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: 014cf8f4-55bb-5582-972b-91291ee58ad6
 ---

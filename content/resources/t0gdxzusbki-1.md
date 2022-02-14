@@ -4,7 +4,9 @@ description: Transcript of a video providing instructor insights on clearly comm
   the focus of a class.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/34b73f8ec037c95db6eda59f2c6c751e_T0GdXZusbKI.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: 34b73f8e-c037-c95d-b6ed-a59f2c6c751e
 ---
