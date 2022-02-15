@@ -9,6 +9,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Brainstorming
-type: OCWFile
 uid: f6438075-6ad9-1a04-99d4-88ea5482af63
 ---

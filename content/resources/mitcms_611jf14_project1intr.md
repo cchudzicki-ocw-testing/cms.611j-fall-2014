@@ -11,6 +11,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Project 1 Introduction
-type: OCWFile
 uid: 0afee959-fabd-54a2-50d8-9d84516e8c8f
 ---

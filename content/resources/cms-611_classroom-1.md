@@ -13,6 +13,5 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: CMS-611_classroom-1
-type: OCWImage
 uid: 452c13e7-2e7f-7acb-9d8b-12361010aa1b
 ---

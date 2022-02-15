@@ -9,6 +9,5 @@ parent_title: Student Game Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Class on Creating Video Games, Project 1, Low Fidelity Prototyping
-type: OCWFile
 uid: e1b30da4-5fed-72a4-b4e1-8017f2669114
 ---

@@ -9,6 +9,5 @@ parent_title: Student Game Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Class on Creating Video Games, Sample Focus Test Document
-type: OCWFile
 uid: 0e375e95-0326-e7df-67c4-e6e66567a12a
 ---

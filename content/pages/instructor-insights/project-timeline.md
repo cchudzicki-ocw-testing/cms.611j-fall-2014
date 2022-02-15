@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 7cf88c38-e571-6315-bc92-a6436ff438f6
 title: Project Timeline
-type: CourseSection
 uid: 19a87e80-0047-24e9-e3ba-39fe730dccb4
 ---
 

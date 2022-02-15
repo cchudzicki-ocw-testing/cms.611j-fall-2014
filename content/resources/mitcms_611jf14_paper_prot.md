@@ -10,6 +10,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Paper Prototyping
-type: OCWFile
 uid: 348ee58d-265e-61e4-760d-196bd97b1ad1
 ---

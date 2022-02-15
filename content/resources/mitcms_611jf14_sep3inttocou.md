@@ -11,6 +11,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Creating Videogames
-type: OCWFile
 uid: 7d5aa541-7112-8629-4137-3710c9950725
 ---

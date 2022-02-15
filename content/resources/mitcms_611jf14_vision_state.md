@@ -9,6 +9,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Vision Statements
-type: OCWFile
 uid: 34947c33-93fa-76b8-ef99-8738a17aae59
 ---

@@ -10,6 +10,5 @@ parent_title: Student Game Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Assignment: Game Engine Tutorial'
-type: OCWFile
 uid: 0ae04c37-2894-a22e-d735-9fafb9092cb1
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: High Level Design Document
-type: OCWFile
 uid: fe72e5f0-c238-8e03-bfd5-ea323ec798c3
 ---

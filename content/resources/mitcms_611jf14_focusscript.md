@@ -9,6 +9,5 @@ parent_title: Student Game Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Class on Creating Video Games, Focus Test Script
-type: OCWFile
 uid: 1294a56f-a0b3-1fe2-0a0f-ead232293c88
 ---

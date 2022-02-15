@@ -9,6 +9,5 @@ parent_title: Student Game Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Bugs and Bug Reporting
-type: OCWFile
 uid: 77735532-cada-1b97-8e35-45dbe5b57da0
 ---

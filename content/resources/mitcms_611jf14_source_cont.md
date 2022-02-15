@@ -10,6 +10,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Revision Control
-type: OCWFile
 uid: 6fc12ad9-0b28-f3e6-3df5-21ff93c461cc
 ---

@@ -14,6 +14,5 @@ parent_title: 'Final Project: Hello Waves'
 parent_type: CourseSection
 resourcetype: Image
 title: Hello Waves
-type: OCWImage
 uid: 158cb54d-4554-f210-bd4f-0e9076758900
 ---

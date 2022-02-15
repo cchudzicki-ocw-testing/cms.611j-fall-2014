@@ -9,6 +9,5 @@ parent_title: Student Game Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Class on Creating Video Games, Heatwave Fact Sheet
-type: OCWFile
 uid: 5a8468e9-9145-2be2-b0ed-53492a28e903
 ---

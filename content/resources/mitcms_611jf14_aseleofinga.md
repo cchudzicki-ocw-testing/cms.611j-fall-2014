@@ -10,6 +10,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: A Selection of Indie Games
-type: OCWFile
 uid: 7d45ea86-f049-c21a-3814-2667b9e910f7
 ---

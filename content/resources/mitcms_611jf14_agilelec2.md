@@ -10,6 +10,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Agile Part II
-type: OCWFile
 uid: 0455c23a-f9c8-1619-913a-da60f60eda25
 ---

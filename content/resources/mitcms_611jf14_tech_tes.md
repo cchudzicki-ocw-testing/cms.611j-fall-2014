@@ -10,6 +10,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Quality Assurance
-type: OCWFile
 uid: 551bfaf9-5f7c-4694-8340-8a90e7ea92b5
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Game Engine Selection
-type: OCWFile
 uid: 9d35a969-f845-f919-a9c6-96530ca45fc3
 ---

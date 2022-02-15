@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Class on Creating Video Games, Anticipatory Humanitarian Action: Forecast-based
   Early Warning Protocol'
-type: OCWFile
 uid: 992826e4-dcd2-4682-b6a7-37c3172c6468
 ---

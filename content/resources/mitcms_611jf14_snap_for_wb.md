@@ -10,6 +10,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: '"SNAP!": Warm-up Activity to Elicit Ideas on Open Data '
-type: OCWFile
 uid: f0f83140-e1c4-b279-1918-c6ea59600ae8
 ---

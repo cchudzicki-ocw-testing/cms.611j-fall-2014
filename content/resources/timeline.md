@@ -8,6 +8,5 @@ parent_title: Project Timeline
 parent_type: CourseSection
 resourcetype: Other
 title: timeline.json
-type: OCWFile
 uid: 65abfeeb-3100-a4cd-76ab-98450aa04b36
 ---

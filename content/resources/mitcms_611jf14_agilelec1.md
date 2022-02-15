@@ -10,6 +10,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Project Management
-type: OCWFile
 uid: 6f2261fa-0ca8-10f6-73f3-2a7494d35f73
 ---

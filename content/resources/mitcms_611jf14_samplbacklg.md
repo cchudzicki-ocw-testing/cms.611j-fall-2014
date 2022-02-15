@@ -10,6 +10,5 @@ parent_title: Student Game Projects
 parent_type: CourseSection
 resourcetype: Other
 title: Sample Project Backlog
-type: OCWFile
 uid: 8955e50a-b7c7-d7b8-e991-393f0125707b
 ---

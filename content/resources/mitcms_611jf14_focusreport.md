@@ -9,6 +9,5 @@ parent_title: Student Game Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Focus Test Summary
-type: OCWFile
 uid: 49a45dc4-c6e9-baf6-8f55-4c772e5b3ce1
 ---

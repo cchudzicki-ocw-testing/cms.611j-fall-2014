@@ -11,6 +11,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Team Dynamics
-type: OCWFile
 uid: ad0631ae-3935-8e86-b0c0-5078f4de173d
 ---

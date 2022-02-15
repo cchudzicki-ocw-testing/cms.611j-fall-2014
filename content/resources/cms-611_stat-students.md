@@ -13,6 +13,5 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: CMS-611_stat-students
-type: OCWImage
 uid: 72462e00-3aae-6471-e153-9ca13feb0243
 ---

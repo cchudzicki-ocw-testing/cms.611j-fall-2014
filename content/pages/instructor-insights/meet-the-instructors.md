@@ -7,7 +7,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 7cf88c38-e571-6315-bc92-a6436ff438f6
 title: Meet the Instructors
-type: CourseSection
 uid: b7504173-f7b7-6e88-938f-f473c5131c11
 videos:
   content:

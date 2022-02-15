@@ -10,6 +10,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Back of the Box
-type: OCWFile
 uid: 8a6928f7-c588-869d-b842-6ccac1c6f432
 ---

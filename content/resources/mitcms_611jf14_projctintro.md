@@ -10,6 +10,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Project 4 Introduction
-type: OCWFile
 uid: 46826b1d-f71d-01ab-8491-db9d91db9f8c
 ---

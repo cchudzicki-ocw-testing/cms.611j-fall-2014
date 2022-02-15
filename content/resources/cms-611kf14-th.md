@@ -12,6 +12,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: Thumbnail of Hello Waves
-type: OCWImage
 uid: 4071a2e7-d5f9-1a9e-342e-fa8dce6c7211
 ---

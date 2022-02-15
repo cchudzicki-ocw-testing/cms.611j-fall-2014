@@ -9,6 +9,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Prototyping Map
-type: OCWFile
 uid: d59364e8-7c7a-31b0-f59b-89f84ed6fcc8
 ---

@@ -10,6 +10,5 @@ parent_title: Student Game Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Project 3: Digital Prototype II: User Interface'
-type: OCWFile
 uid: 91c54105-7ab3-0348-9468-5086ae9380f3
 ---

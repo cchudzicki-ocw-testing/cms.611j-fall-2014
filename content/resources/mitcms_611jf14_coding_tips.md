@@ -9,6 +9,5 @@ parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Coding Tips
-type: OCWFile
 uid: 67ef0579-9e79-9842-605b-015427e21718
 ---

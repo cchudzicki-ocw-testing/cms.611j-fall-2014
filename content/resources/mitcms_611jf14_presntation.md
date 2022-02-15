@@ -10,6 +10,5 @@ parent_title: Student Game Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Class on Creating Video Games, Presentation Expectations and Requirements
-type: OCWFile
 uid: f00286a3-1899-9170-f3ad-46408c2d1bf9
 ---
