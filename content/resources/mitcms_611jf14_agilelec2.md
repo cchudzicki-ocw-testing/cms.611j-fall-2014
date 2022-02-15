@@ -6,6 +6,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-cre
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Slides and Readings
 parent_type: CourseSection
 resourcetype: Document

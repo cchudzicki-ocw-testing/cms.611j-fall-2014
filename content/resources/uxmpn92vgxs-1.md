@@ -5,6 +5,7 @@ description: Transcript of a lecture video on Agile software development, and ho
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/0d7220e4386eeec4e04cb8c5176e927f_UxMpn92vGXs.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 0d7220e4-386e-eec4-e04c-b8c5176e927f

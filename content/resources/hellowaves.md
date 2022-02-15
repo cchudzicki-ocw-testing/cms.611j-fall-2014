@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: A screenshot of the game Hello Waves.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Final Project: Hello Waves'
 parent_type: CourseSection
 resourcetype: Image

@@ -7,6 +7,7 @@ description: "Subtitle file for a video that provides a closer look at the devel
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/22940a58e5895405adb11fdd78831b5b_lxpXowuUdKw.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 22940a58-e589-5405-adb1-1fdd78831b5b

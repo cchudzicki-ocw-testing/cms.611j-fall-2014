@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: The title screen of the game Saving Gora Gora.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Final Project: Saving Gora Gora'
 parent_type: CourseSection
 resourcetype: Image

@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: A screenshot of the game Snap!
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Final Project: Snap!'
 parent_type: CourseSection
 resourcetype: Image

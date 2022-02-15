@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: A screenshot of the game Heat Wave.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Final Project: Heat Wave'
 parent_type: CourseSection
 resourcetype: Image

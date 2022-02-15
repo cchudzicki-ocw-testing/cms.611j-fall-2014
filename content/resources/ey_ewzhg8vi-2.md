@@ -5,6 +5,7 @@ description: Subtitle file for a lecture video. In this lecture, Richard Ludlow 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/b03fabf8f9e754a1bcea3dc94c5b0cb1_Ey_eWZhG8vI.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: b03fabf8-f9e7-54a1-bcea-3dc94c5b0cb1

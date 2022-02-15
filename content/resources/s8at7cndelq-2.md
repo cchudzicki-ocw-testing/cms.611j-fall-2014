@@ -6,6 +6,7 @@ description: "Subtitle file for a lecture video. In this lecture, Scot Osterweil
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/89a48d085a3256a484b2b9ef0407a8eb_s8At7cnDelQ.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 89a48d08-5a32-56a4-84b2-b9ef0407a8eb

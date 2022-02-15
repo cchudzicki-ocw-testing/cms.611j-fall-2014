@@ -5,6 +5,7 @@ description: Subtitle file for a lecture video on Agile software development, an
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/e67c5b8be2415ebd997fc3416e7c72d1_UxMpn92vGXs.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: e67c5b8b-e241-5ebd-997f-c3416e7c72d1

@@ -6,6 +6,7 @@ description: Subtitle file for a video interview with Pablo Suarez, Associate Di
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/86165afcc27552db94194c233878d615_WLjo-mDBiDg.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 86165afc-c275-52db-9419-4c233878d615

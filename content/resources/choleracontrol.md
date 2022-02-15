@@ -11,6 +11,7 @@ image_metadata:
   credit: ''
   image-alt: A screenshot of the game Cholera Control.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Final Project: Cholera Control'
 parent_type: CourseSection
 resourcetype: Image

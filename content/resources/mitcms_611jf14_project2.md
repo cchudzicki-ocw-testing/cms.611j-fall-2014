@@ -7,6 +7,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-cre
 file_type: application/pdf
 learning_resource_types:
 - Projects
+ocw_type: OCWFile
 parent_title: Student Game Projects
 parent_type: CourseSection
 resourcetype: Document

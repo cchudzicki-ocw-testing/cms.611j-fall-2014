@@ -6,6 +6,7 @@ description: Transcript of a lecture video. In this lecture, students discuss th
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/5b578018a652ea21fb51b68d56d804e8_-SHXUwpVgXU.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 5b578018-a652-ea21-fb51-b68d56d804e8

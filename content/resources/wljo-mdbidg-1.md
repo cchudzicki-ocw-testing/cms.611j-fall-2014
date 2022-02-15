@@ -6,6 +6,7 @@ description: Transcript of a video interview with Pablo Suarez, Associate Direct
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/9130acfefe4b626679afe84c6fba72a4_WLjo-mDBiDg.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 9130acfe-fe4b-6266-79af-e84c6fba72a4

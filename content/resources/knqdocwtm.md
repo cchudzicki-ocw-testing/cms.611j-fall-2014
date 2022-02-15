@@ -6,6 +6,7 @@ description: Subtitle file for a lecture video. In this lecture, the Michael Car
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/cms-611j-creating-video-games-fall-2014/5f0220b0ef313608a6f153eb6d933a1d_knqdOcWTM.srt
 file_type: application/x-subrip
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 5f0220b0-ef31-3608-a6f1-53eb6d933a1d
