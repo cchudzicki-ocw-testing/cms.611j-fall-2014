@@ -13,7 +13,7 @@ uid: d5d9e066-5477-99f0-61e2-9cba26150421
 The Game
 --------
 
-![A screenshot of the game Saving Gora Gora.]({{< resource_file 520ab874-3e5d-fe2f-6aab-59df91408e61 >}})
+{{< resource 520ab874-3e5d-fe2f-6aab-59df91408e61 >}}
 
 _Saving Gora Gora_ is a game that tries to inform players about the causes, symptoms, and prevention of Cholera. The game accomplishes this goal by building its gameplay around a children's story, in which you, the player, must discover what is making the town of Gora Gora sick, and prove the innocence of another character.
 

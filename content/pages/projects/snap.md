@@ -13,7 +13,7 @@ uid: 50667751-7ab3-775d-c320-c9e8f386f932
 The Game
 --------
 
-![A screenshot of the game Snap!]({{< resource_file 4794dff4-cb70-c0c0-5154-6576a09d7b2a >}})
+{{< resource 4794dff4-cb70-c0c0-5154-6576a09d7b2a >}}
 
 _Snap!_ is a game that focuses on word association, and aims to be a useful tool for brainstorming.
 

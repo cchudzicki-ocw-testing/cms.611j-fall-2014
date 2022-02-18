@@ -33,32 +33,32 @@ Students interested in designing games for entertainment often go on to take _CM
 Meet the Instructors
 --------------------
 
-[![An image of instructor Sara Verrilli taken from an interview in which she is seated in front of large bookcases filled with various games.]({{< resource_file 5970fd44-d65e-935c-a05c-98a8fc411b52 >}})]({{< baseurl >}}/resources/instructor-introduction-sara-verrilli)
+[{{< resource 5970fd44-d65e-935c-a05c-98a8fc411b52 >}}]({{< baseurl >}}/resources/instructor-introduction-sara-verrilli)
 
 _In the following videos, the instructors introduce themselves, share their research interests, and discuss what games they’re playing and creating now._
 
-*   [Instructor Introduction: Philip Tan]({{< baseurl >}}/resources/instructor-introduction-philip-tan)
-*   [Instructor Introduction: Richard Eberhardt]({{< baseurl >}}/resources/instructor-introduction-richard-eberhardt)
-*   [Instructor Introduction: Sara Verrilli]({{< baseurl >}}/resources/instructor-introduction-sara-verrilli)
-*   [Instructor Introduction: Andrew Haydn Grant]({{< baseurl >}}/resources/instructor-introduction-andrew-haydn-grant)
+*   {{< resource_link 3466e54e-f20e-955e-55fb-8cb5934b1e5e "Instructor Introduction: Philip Tan" >}}
+*   {{< resource_link 8778e5d4-740e-1169-1a9e-815d970d5f5f "Instructor Introduction: Richard Eberhardt" >}}
+*   {{< resource_link 90e5b799-1db7-08b1-bdcd-55f21396ea3e "Instructor Introduction: Sara Verrilli" >}}
+*   {{< resource_link ef23c1ae-e9b3-a3f4-956a-b2d5e1d82a2e "Instructor Introduction: Andrew Haydn Grant" >}}
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
 Instructor Insights
 -------------------
 
-[![An image of instructors Sara Verrilli, Philip Tan, and Richard Eberhardt taken from an interview. The three are are seated side-by-side in front of large bookcases filled with various games.]({{< resource_file ab47bfe2-a2d9-bdb5-95b4-380199c4b9af >}})]({{< baseurl >}}/resources/sequencing-learning-experiences)
+[{{< resource ab47bfe2-a2d9-bdb5-95b4-380199c4b9af >}}]({{< baseurl >}}/resources/sequencing-learning-experiences)
 
 _In the following videos, Philip Tan, Richard Eberhardt, and Sara Verrill describe various aspects of how they taught _CMS.611J Creating Video Games_._
 
-*   [Instructor Interview: Teaching Students How to Solve Creative Problems as Teams]({{< baseurl >}}/resources/teaching-students-how-to-solve-creative-problems-as-teams)
-*   [Instructor Interview: Sequencing Learning Experiences]({{< baseurl >}}/resources/sequencing-learning-experiences)
-*   [Instructor Interview: Encouraging Iteration]({{< baseurl >}}/resources/teaching-the-iterative-process)
-*   [Instructor Interview: Fostering Diversity of Voice]({{< baseurl >}}/resources/fostering-diversity-of-voices)
-*   [Instructor Interview: Assessing Students' Projects]({{< baseurl >}}/resources/assessing-students-projects)
-*   [Instructor Interview: Refining the Course]({{< baseurl >}}/resources/refining-the-course)
-*   [Instructor Interview: Advice for Educators]({{< baseurl >}}/resources/advice-for-educators)
-*   [Instructor Interview: Postmortem Analysis]({{< baseurl >}}/resources/postmortem-analysis)
+*   {{< resource_link e1ab4a64-90d2-8ef0-2628-e47bdac04dd3 "Instructor Interview: Teaching Students How to Solve Creative Problems as Teams" >}}
+*   {{< resource_link 9abb7480-3302-0799-7f90-dc6bd218ace5 "Instructor Interview: Sequencing Learning Experiences" >}}
+*   {{< resource_link fad86181-f4b1-3482-4f05-9fb24c611401 "Instructor Interview: Encouraging Iteration" >}}
+*   {{< resource_link 10344f7d-c4ed-2795-5216-226988f56e34 "Instructor Interview: Fostering Diversity of Voice" >}}
+*   {{< resource_link 7257b7d2-8b14-06d6-88dc-77900f95d8b6 "Instructor Interview: Assessing Students' Projects" >}}
+*   {{< resource_link f0b93440-af61-9a04-ab6d-ba2affab9861 "Instructor Interview: Refining the Course" >}}
+*   {{< resource_link 1ba64032-2a48-c643-8597-c8cc1c22e402 "Instructor Interview: Advice for Educators" >}}
+*   {{< resource_link e83b2c69-e982-ff0b-dd30-eb9271927bbc "Instructor Interview: Postmortem Analysis" >}}
 
 {{< anchor "client" >}}{{< /anchor >}}
 
@@ -67,7 +67,7 @@ Client Insights
 
 _In the following video, Pablo Suarez, the client for Project 4, shares his insights about partnering with the students and instructors in CMS.611J._
 
-*   [Client Interview: Pablo Suarez]({{< baseurl >}}/resources/client-interview-pablo-suarez)
+*   {{< resource_link 007b199a-09f7-2d75-965c-895eff657d91 "Client Interview: Pablo Suarez" >}}
 
 {{< anchor "student" >}}{{< /anchor >}}
 
@@ -76,20 +76,20 @@ Student Insights
 
 _In the following videos, students describe various aspects of their experiences in CMS.611J Creating Video Games._
 
-*   [Student Interview: Tej Chajed]({{< baseurl >}}/resources/student-interview-tej-chajed)
-*   [Student Interview: Matthew Susskind]({{< baseurl >}}/resources/student-interview-matthew-susskind)
-*   [Student Interview: Miriam Prosnitz]({{< baseurl >}}/resources/student-interview-miriam-prosnitz)
-*   [Student Interview: Lauren Merriman]({{< baseurl >}}/resources/student-interview-lauren-merriman)
-*   [Student Interview: Lenny Martinez]({{< baseurl >}}/resources/student-interview-lenny-martinez)
+*   {{< resource_link 674eed94-7a19-e562-e0aa-8d1bc71e0662 "Student Interview: Tej Chajed" >}}
+*   {{< resource_link 0e503c9c-5629-882d-0306-915a3f18e5e7 "Student Interview: Matthew Susskind" >}}
+*   {{< resource_link 093c290c-3a74-dc10-45a5-44c6b8f33eac "Student Interview: Miriam Prosnitz" >}}
+*   {{< resource_link a3a057a3-781e-6854-2e24-1cfef35ab606 "Student Interview: Lauren Merriman" >}}
+*   {{< resource_link 9075cf36-8e3c-7fec-f6b7-470b0fc687c1 "Student Interview: Lenny Martinez" >}}
 
 {{< anchor "timeline" >}}{{< /anchor >}}
 
 Project Timeline
 ----------------
 
-[![A screenshot of the interactive timeline, showing an embedded video with accompanying text and links, with a side-scrolling bar of various events below.]({{< resource_file 326dc4a6-80b3-edb6-7958-bb3386ac9cdd >}})]({{< baseurl >}}/pages/instructor-insights/project-timeline)_In the following interactive timeline, the instructors illustrate how they sequenced the course projects to enable students to incrementally develop the skills needed to complete the final project._
+[{{< resource 326dc4a6-80b3-edb6-7958-bb3386ac9cdd >}}]({{< baseurl >}}/pages/instructor-insights/project-timeline)_In the following interactive timeline, the instructors illustrate how they sequenced the course projects to enable students to incrementally develop the skills needed to complete the final project._
 
-[CMS.611J Project Timeline]({{< baseurl >}}/pages/instructor-insights/project-timeline)
+{{< resource_link 19a87e80-0047-24e9-e3ba-39fe730dccb4 "CMS.611J Project Timeline" >}}
 
 {{< anchor "closer" >}}{{< /anchor >}}
 
@@ -98,7 +98,7 @@ A Closer Look
 
 _The following video provides a closer look at the development of one team’s final project game, Hello Waves. Capturing each step in the team’s iterative process, the video gives educators an in-depth view into how the team took their idea from pitch to product._
 
-[From Pitch to Product: The Development of Hello Waves]({{< baseurl >}}/resources/from-pitch-to-product)
+{{< resource_link e242fe30-a570-ead6-a3b3-66e999324fae "From Pitch to Product: The Development of Hello Waves" >}}
 
 [Play Hello Waves](/ans7870/CMS/CMS.611/f14/games/hello-waves/game/index.html)
 
@@ -146,7 +146,7 @@ This course focused on teaching students effective processes and procedures for 
 Student Information
 -------------------
 
-![CMS-611_stat-students.png]({{< resource_file 72462e00-3aae-6471-e153-9ca13feb0243 >}})
+{{< resource 72462e00-3aae-6471-e153-9ca13feb0243 >}}
 
 ### Breakdown by Year
 
@@ -181,7 +181,7 @@ Met 2 times per week for 3 hours per session; 27 sessions total; mandatory atten
 
 Use of class time varied widely as students moved through different stages of each project. Main activities, with approximate average time spent, included:
 
-*   [Lectures]({{< baseurl >}}/video_galleries/lecture-videos) (1-2 hours/week)
+*   {{< resource_link dc33d4c4-d205-4bc6-351b-fd20bc6fc55a "Lectures" >}} (1-2 hours/week)
 *   Discussion (1 hour/week)
 *   Workshop (1 hour/week)
 *   Playtesting (variable)
