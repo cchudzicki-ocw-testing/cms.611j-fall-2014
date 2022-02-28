@@ -25,7 +25,7 @@ _Snap!_ is a quick game with three aims:
 *   Create a sense of shared identity among participants of the same sector
 *   Learn from participants about what concepts they associate with the topic
 
-For the rules of _Snap!_ on paper, please see the [lecture notes]({{< baseurl >}}/pages/lecture-slides-and-readings#Snap) introducing the game.
+For the rules of _Snap!_ on paper, please see the {{< resource_link 90e2e70d-cfd3-8049-791c-fa676d936848 "lecture notes" "#Snap" >}} introducing the game.
 
 — Tej Chajed, Team _Snap!_
 
