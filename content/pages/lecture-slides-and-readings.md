@@ -30,22 +30,22 @@ Class Information and Resources
 {{< tdopen >}}
 
 
-{{< resource_link 7d5aa541-7112-8629-4137-3710c9950725 "Introduction (PDF)" >}}
+{{% resource_link 7d5aa541-7112-8629-4137-3710c9950725 "Introduction (PDF)" %}}
 
-{{< resource_link 0afee959-fabd-54a2-50d8-9d84516e8c8f "Project 1 Introduction (PDF)" >}}
+{{% resource_link 0afee959-fabd-54a2-50d8-9d84516e8c8f "Project 1 Introduction (PDF)" %}}
 
-{{< resource_link 46826b1d-f71d-01ab-8491-db9d91db9f8c "Project 4 Introduction (PDF)" >}}
+{{% resource_link 46826b1d-f71d-01ab-8491-db9d91db9f8c "Project 4 Introduction (PDF)" %}}
 
-{{< resource_link 8a6928f7-c588-869d-b842-6ccac1c6f432 "Back of the Box (PDF)" >}}
+{{% resource_link 8a6928f7-c588-869d-b842-6ccac1c6f432 "Back of the Box (PDF)" %}}
 
-{{< resource_link fe72e5f0-c238-8e03-bfd5-ea323ec798c3 "High Level Design Document (PDF)" >}}
+{{% resource_link fe72e5f0-c238-8e03-bfd5-ea323ec798c3 "High Level Design Document (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{< resource_link f0f83140-e1c4-b279-1918-c6ea59600ae8 "\"SNAP!\": Warm-up Activity to Elicit Ideas on Open Data (PDF)" >}}
+{{% resource_link f0f83140-e1c4-b279-1918-c6ea59600ae8 "\"SNAP!\": Warm-up Activity to Elicit Ideas on Open Data (PDF)" %}}
 
 Zoss, J. Matthew. "[The Art of Game Polish: Developers Speak](http://www.gamasutra.com/view/feature/132611/the_art_of_game_polish_developers_.php?print=1)." _Gamasutra_, December 22, 2009.
 
@@ -90,13 +90,13 @@ Design: Brainstorming and Prototyping
 {{< tdopen >}}
 
 
-{{< resource_link f6438075-6ad9-1a04-99d4-88ea5482af63 "Brainstorming (PDF)" >}}
+{{% resource_link f6438075-6ad9-1a04-99d4-88ea5482af63 "Brainstorming (PDF)" %}}
 
-{{< resource_link 348ee58d-265e-61e4-760d-196bd97b1ad1 "Paper Prototyping (PDF)" >}}
+{{% resource_link 348ee58d-265e-61e4-760d-196bd97b1ad1 "Paper Prototyping (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link d59364e8-7c7a-31b0-f59b-89f84ed6fcc8 "Prototyping Map (PDF)" >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d59364e8-7c7a-31b0-f59b-89f84ed6fcc8 "Prototyping Map (PDF)" %}}
 
-{{< resource_link 7d45ea86-f049-c21a-3814-2667b9e910f7 "A Selection of Indie Games (PDF)" >}}
+{{% resource_link 7d45ea86-f049-c21a-3814-2667b9e910f7 "A Selection of Indie Games (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -120,7 +120,7 @@ Fullerton, Tracy. "Digital Prototyping." In _Game Design Workshop: A Playcentric
 Testing
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 551bfaf9-5f7c-4694-8340-8a90e7ea92b5 "Testing (PDF)" >}}
+{{% resource_link 551bfaf9-5f7c-4694-8340-8a90e7ea92b5 "Testing (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -140,11 +140,11 @@ Software Engineering
 {{< tdopen >}}
 
 
-{{< resource_link 9d35a969-f845-f919-a9c6-96530ca45fc3 "Game Engines (PDF 1.7MB)" >}}
+{{% resource_link 9d35a969-f845-f919-a9c6-96530ca45fc3 "Game Engines (PDF 1.7MB)" %}}
 
-{{< resource_link 6fc12ad9-0b28-f3e6-3df5-21ff93c461cc "Version Control (PDF)" >}}
+{{% resource_link 6fc12ad9-0b28-f3e6-3df5-21ff93c461cc "Version Control (PDF)" %}}
 
-{{< resource_link 67ef0579-9e79-9842-605b-015427e21718 "Coding Tips (PDF)" >}}
+{{% resource_link 67ef0579-9e79-9842-605b-015427e21718 "Coding Tips (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -164,13 +164,13 @@ Project Management
 {{< tdopen >}}
 
 
-{{< resource_link 34947c33-93fa-76b8-ef99-8738a17aae59 "Vision Statement (PDF)" >}}
+{{% resource_link 34947c33-93fa-76b8-ef99-8738a17aae59 "Vision Statement (PDF)" %}}
 
-{{< resource_link 0455c23a-f9c8-1619-913a-da60f60eda25 "Agile Project Management (PDF)" >}}
+{{% resource_link 0455c23a-f9c8-1619-913a-da60f60eda25 "Agile Project Management (PDF)" %}}
 
-{{< resource_link 6f2261fa-0ca8-10f6-73f3-2a7494d35f73 "Agile Software Development (PDF)" >}}
+{{% resource_link 6f2261fa-0ca8-10f6-73f3-2a7494d35f73 "Agile Software Development (PDF)" %}}
 
-{{< resource_link ad0631ae-3935-8e86-b0c0-5078f4de173d "Team Dynamics (PDF)" >}}
+{{% resource_link ad0631ae-3935-8e86-b0c0-5078f4de173d "Team Dynamics (PDF)" %}}
 
 
 {{< tdclose >}}

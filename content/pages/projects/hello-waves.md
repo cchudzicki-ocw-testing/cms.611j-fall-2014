@@ -39,19 +39,19 @@ The following video provides a closer look at the development of the Hello Waves
 
 {{< resource bdb33762-3bda-03c9-65a3-6051467bde50 >}}
 
-{{< resource_link 2fbb9b01-9670-c1a3-5b6a-c3dc8e7cea4d "Introduction to Game Project Topics" >}}
+{{% resource_link 2fbb9b01-9670-c1a3-5b6a-c3dc8e7cea4d "Introduction to Game Project Topics" %}}
 
-{{< resource_link dd9f9991-407d-4266-f886-92ebc3383440 "Game Mechanics Brainstorming" >}}
+{{% resource_link dd9f9991-407d-4266-f886-92ebc3383440 "Game Mechanics Brainstorming" %}}
 
-{{< resource_link cc8317ff-3025-796b-9f19-48bf7eafe3b0 "Tabletop Playtesting" >}}
+{{% resource_link cc8317ff-3025-796b-9f19-48bf7eafe3b0 "Tabletop Playtesting" %}}
 
-{{< resource_link 8a208e62-202d-03bb-597a-59e61a638768 "Concept Presentation" >}}
+{{% resource_link 8a208e62-202d-03bb-597a-59e61a638768 "Concept Presentation" %}}
 
-{{< resource_link 5e2cc42f-a433-66eb-94ce-2e6e1d6e8a2d "Digital Prototype" >}}
+{{% resource_link 5e2cc42f-a433-66eb-94ce-2e6e1d6e8a2d "Digital Prototype" %}}
 
-{{< resource_link 34acb4ca-f94e-07e0-dfa3-ec8f080868df "Final Presentation Rehearsal" >}}
+{{% resource_link 34acb4ca-f94e-07e0-dfa3-ec8f080868df "Final Presentation Rehearsal" %}}
 
-{{< resource_link a4784580-d187-d43b-b658-8ea7f2bed753 "Final Presentation" >}}
+{{% resource_link a4784580-d187-d43b-b658-8ea7f2bed753 "Final Presentation" %}}
 
 Student Insights
 ----------------
