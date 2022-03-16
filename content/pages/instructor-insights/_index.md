@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -46,7 +47,7 @@ _In the following videos, the instructors introduce themselves, share their rese
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-## Instructor Insights
+## Instructor Interview
 
 \[
 
@@ -56,7 +57,7 @@ _In the following videos, the instructors introduce themselves, share their rese
 
  
 
-_In the following videos, Philip Tan, Richard Eberhardt, and Sara Verrill describe various aspects of how they taught \_CMS.611J Creating Video Games_.\_
+_In the following videos, Philip Tan, Richard Eberhardt, and Sara Verrill describe various aspects of how they taught_ CMS.611J Creating Video Games.
 
 - {{% resource_link e1ab4a64-90d2-8ef0-2628-e47bdac04dd3 "Instructor Interview: Teaching Students How to Solve Creative Problems as Teams" %}}
 - {{% resource_link 9abb7480-3302-0799-7f90-dc6bd218ace5 "Instructor Interview: Sequencing Learning Experiences" %}}
@@ -69,17 +70,17 @@ _In the following videos, Philip Tan, Richard Eberhardt, and Sara Verrill descri
 
 {{< anchor "client" >}}{{< /anchor >}}
 
-## Client Insights
+## Client Interview
 
-_In the following video, Pablo Suarez, the client for Project 4, shares his insights about partnering with the students and instructors in CMS.611J._
+_In the following video, Pablo Suarez, the client for Project 4, shares his insights about partnering with the students and instructors in_ CMS.611J_._
 
 - {{% resource_link 007b199a-09f7-2d75-965c-895eff657d91 "Client Interview: Pablo Suarez" %}}
 
 {{< anchor "student" >}}{{< /anchor >}}
 
-## Student Insights
+## Student Interview
 
-_In the following videos, students describe various aspects of their experiences in CMS.611J Creating Video Games._
+_In the following videos, students describe various aspects of their experiences in_ CMS.611J Creating Video Games.
 
 - {{% resource_link 674eed94-7a19-e562-e0aa-8d1bc71e0662 "Student Interview: Tej Chajed" %}}
 - {{% resource_link 0e503c9c-5629-882d-0306-915a3f18e5e7 "Student Interview: Matthew Susskind" %}}
@@ -155,7 +156,9 @@ This course focused on teaching students effective processes and procedures for 
 
 ## Student Information
 
-{{< resource 72462e00-3aae-6471-e153-9ca13feb0243 >}}
+### Enrollment
+
+41 students
 
 ### Breakdown by Year
 
@@ -182,7 +185,7 @@ The ideal class size is 30-35 students per section. This size allows students ha
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-## In Class
+### In Class
 
 Met 2 times per week for 3 hours per session; 27 sessions total; mandatory attendance.
 
@@ -194,6 +197,6 @@ Use of class time varied widely as students moved through different stages of ea
 - Playtesting (variable)
 - Presentations (variable)
 
-## Out of Class
+### Out of Class
 
 Students completed most of their game project development outside of class, working collaboratively to meet regular deadlines.
