@@ -72,7 +72,7 @@ _In the following videos, Philip Tan, Richard Eberhardt, and Sara Verrill descri
 
 ## Client Interview
 
-_In the following video, Pablo Suarez, the client for Project 4, shares his insights about partnering with the students and instructors in_ CMS.611J_._
+_In the following video, Pablo Suarez, the client for Project 4, shares his insights about partnering with the students and instructors in_ CMS.611J.
 
 - {{% resource_link 007b199a-09f7-2d75-965c-895eff657d91 "Client Interview: Pablo Suarez" %}}
 
@@ -87,20 +87,6 @@ _In the following videos, students describe various aspects of their experiences
 - {{% resource_link 093c290c-3a74-dc10-45a5-44c6b8f33eac "Student Interview: Miriam Prosnitz" %}}
 - {{% resource_link a3a057a3-781e-6854-2e24-1cfef35ab606 "Student Interview: Lauren Merriman" %}}
 - {{% resource_link 9075cf36-8e3c-7fec-f6b7-470b0fc687c1 "Student Interview: Lenny Martinez" %}}
-
-{{< anchor "timeline" >}}{{< /anchor >}}
-
-## Project Timeline
-
-\[
-
-{{< resource 326dc4a6-80b3-edb6-7958-bb3386ac9cdd >}}
-
-\]({{< baseurl >}}/pages/instructor-insights/project-timeline)_In the following interactive timeline, the instructors illustrate how they sequenced the course projects to enable students to incrementally develop the skills needed to complete the final project._
-
- 
-
-{{% resource_link 19a87e80-0047-24e9-e3ba-39fe730dccb4 "CMS.611J Project Timeline" %}}
 
 {{< anchor "closer" >}}{{< /anchor >}}
 
@@ -175,7 +161,7 @@ During the Fall 2014 offering of the course, women constituted 1/4 of the class.
 
 Students brought very different tastes and experiences to the class based on having played games throughout their lives, but students did not have to be “gamers” to enroll or excel in the course.
 
-### _Ideal Class Size_
+### Ideal Class Size
 
 The ideal class size is 30-35 students per section. This size allows students have the opportunity to work on multiple teams with different students on each, as well as to form teams for the final project that are big enough to fail. We purposefully set teams up for the final project to have communication issues (having 7-8 students on a single team) because part of their challenge is to use the tools and methods we provide to overcome the challenge. A class size of about 35 students is still small enough, however, to allow instructors to get to know students well. This is important because it helps instructors assess and intervene when teams are having motivational or interpersonal issues.
 
