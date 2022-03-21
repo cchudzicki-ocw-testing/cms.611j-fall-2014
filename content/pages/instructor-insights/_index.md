@@ -30,14 +30,6 @@ Students interested in designing games for entertainment often go on to take _CM
 
 ## Meet the Instructors
 
-\[
-
-{{< resource 5970fd44-d65e-935c-a05c-98a8fc411b52 >}}
-
-\]({{< baseurl >}}/resources/instructor-introduction-sara-verrilli)
-
- 
-
 _In the following videos, the instructors introduce themselves, share their research interests, and discuss what games they’re playing and creating now._
 
 - {{% resource_link 3466e54e-f20e-955e-55fb-8cb5934b1e5e "Instructor Introduction: Philip Tan" %}}
@@ -48,14 +40,6 @@ _In the following videos, the instructors introduce themselves, share their rese
 {{< anchor "insights" >}}{{< /anchor >}}
 
 ## Instructor Interview
-
-\[
-
-{{< resource ab47bfe2-a2d9-bdb5-95b4-380199c4b9af >}}
-
-\]({{< baseurl >}}/resources/sequencing-learning-experiences)
-
- 
 
 _In the following videos, Philip Tan, Richard Eberhardt, and Sara Verrill describe various aspects of how they taught_ CMS.611J Creating Video Games.
 
@@ -138,7 +122,7 @@ _Note:_ Students shared 80% of their grades on individual projects with their te
 
 ### Instructor Insights on Assessment
 
-This course focused on teaching students effective processes and procedures for working as a team on a complex, multi-functional project. While it was important for them to deliver projects successfully, we were more interested in helping students learn how to practice and improve their project management and group teamwork skills. Their project grades depended heavily on the methods, tools, and processes they used to develop their games, as well as the justification and explanation of the choices they made in organizing their teams and projects. We used multiple methods to capture this information, including presentations, written reports, design diaries, project management documentation, and mandatory in-class playtesting sessions.
+This course focused on teaching students effective processes and procedures for working as a team on a complex, multi-functional project. While it was important for them to deliver projects successfully, we were more interested in helping students learn how to practice and improve their project management and group teamwork skills. Their project grades depended heavily on the methods, tools, and processes they used to develop their games, as well as the justification and explanation of the choices they made in organizing their teams and projects. We used multiple methods to capture this information, including presentations, written reports, design diaries, project management documentation, and mandatory in-class play testing sessions.
 
 ## Student Information
 
