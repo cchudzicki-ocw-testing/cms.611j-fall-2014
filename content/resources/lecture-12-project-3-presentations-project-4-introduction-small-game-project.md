@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 draft: false
+end_time: ''
 file: null
 file_type: ''
 image_metadata:
@@ -19,6 +20,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 12: Project 3 Presentations; Project 4 Topics by Guest Pablo Suarez
   (Red Cross/Red Crescent Climate Center); Project 4 Brainstorming'
 uid: af2830a6-2789-eced-c111-ffef611091a0
