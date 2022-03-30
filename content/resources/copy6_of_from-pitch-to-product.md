@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1978'
 title: Final Presentation
 uid: a4784580-d187-d43b-b658-8ea7f2bed753
 video_files:
