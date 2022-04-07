@@ -13,8 +13,7 @@ uid: 9921714d-b32b-7623-5e76-739007ee10a8
 The Game
 --------
 
-[{{< resource 69e1f411-a309-0f84-2b21-fa36db9f1d60 >}}  
-](/ans7870/CMS/CMS.611/f14/games/cholera_control_final/index.html)
+{{< resource uuid="69e1f411-a309-0f84-2b21-fa36db9f1d60" href="/ans7870/CMS/CMS.611/f14/games/cholera_control_final/index.html" >}}
 
 _Cholera Control_ puts you in the situation of a cholera outbreak, and you must take action to prevent illness and the spread of infection. The game is built on the premise that cholera is a preventable disease with education on proper sanitary measures.
 

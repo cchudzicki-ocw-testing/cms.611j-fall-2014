@@ -13,7 +13,7 @@ uid: 41d8007e-2d04-e291-e6fb-77f2957ff939
 The Game
 --------
 
-[{{< resource 158cb54d-4554-f210-bd4f-0e9076758900 >}}](/ans7870/CMS/CMS.611/f14/games/hello-waves/game/index.html)
+{{< resource uuid="158cb54d-4554-f210-bd4f-0e9076758900" href="/ans7870/CMS/CMS.611/f14/games/hello-waves/game/index.html" >}}
 
 _Hello Waves_ is a game that deals with a topic known as forecast-based financing, which aims to create new funding mechanisms for disaster preparedness.
 
