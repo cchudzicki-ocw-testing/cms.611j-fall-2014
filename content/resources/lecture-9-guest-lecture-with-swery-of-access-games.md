@@ -29,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, SWERY from Access Games describes his experience in game development.
 
 **Instructors:** Richard Eberhardt and Hidetaka "SWERY" Suehiro
+

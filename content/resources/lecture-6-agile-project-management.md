@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professors continue discussing Agile project management.
 
 **Instructors:** Philip Tan, Sara Verrilli, and and Andrew Grant
+

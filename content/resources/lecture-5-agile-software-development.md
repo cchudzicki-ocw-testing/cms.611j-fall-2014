@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professors discuss Agile software development, and how it relates to project management.
 
 **Instructors:** Sara Verrilli
+

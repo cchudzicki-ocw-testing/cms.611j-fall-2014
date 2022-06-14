@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professors discuss aesthetics and polish in video games.
 
 **Instructors:** Philip Tan and Richard Eberhardt
+

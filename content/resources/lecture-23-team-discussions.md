@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the lecturers discuss with every group about their projects, including their working plans and issues they may have.
 
 **Instructors:** Philip Tan, Sara Verrilli, and Richard Eberhardt
+

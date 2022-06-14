@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professor discuss team dynamics in project management.
 
 **Instructors:** Richard Eberhardt
+

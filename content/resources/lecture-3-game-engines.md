@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professors discuss software version control and the importance of vision statements video game development.
 
 **Instructors:** Philip Tan, Sara Verrilli, Richard Eberhardt, and Andrew Grant
+

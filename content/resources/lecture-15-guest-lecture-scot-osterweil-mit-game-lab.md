@@ -29,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Scot Osterweil of the MIT Game Lab discusses design in educational games and the students present status updates for Project 4.
 
 **Instructors:** Richard Eberhardt and Scot Osterweil
+

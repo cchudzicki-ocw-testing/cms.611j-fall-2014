@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this guest lecture, Luigi Guatieri discusses visual artists in game development.
 
 **Instructors:** Luigi Guatieri and Richard Eberhardt
+

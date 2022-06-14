@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professors describe topics about game design, including freedoms of play and "serious" games.
 
 **Instructors:** Philip Tan and Richard Eberhardt
+

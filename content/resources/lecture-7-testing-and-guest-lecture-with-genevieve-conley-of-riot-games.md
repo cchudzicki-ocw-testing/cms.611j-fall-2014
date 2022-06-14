@@ -29,3 +29,4 @@ video_metadata:
 **Description:** In this lecture the professors discuss playtesting, a representative from Riot Games describes playtesting at her company, and students discuss focus test results.
 
 **Instructors:** Philip Tan, Sara Verrilli, and Genevieve Conley
+

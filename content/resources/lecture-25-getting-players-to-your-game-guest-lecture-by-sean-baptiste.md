@@ -29,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Sean Baptiste from Fire Hose Games discusses promotion and community for video games.
 
 **Instructors:** Richard Eberhardt and Sean Baptiste
+

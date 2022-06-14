@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the guest lecturers discuss story and gameplay writing in video games.
 
 **Instructors:** Richard Eberhardt, Andrew Grant, Heather Albano, and Laura Baldwin
+

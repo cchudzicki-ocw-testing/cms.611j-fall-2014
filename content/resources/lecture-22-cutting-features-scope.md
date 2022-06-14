@@ -30,3 +30,4 @@ video_metadata:
 **Instructors:** Richard Eberhardt
 
 **Note:** Video for Lecture 21 (Guest Lecture: Blizzard Entertainment) is not available.
+

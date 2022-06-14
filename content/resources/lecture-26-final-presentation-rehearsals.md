@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the students rehearse their final presentations.
 
 **Instructors:** Philip Tan, Sara Verrilli, and Richard Eberhardt
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professors discuss the development of video game stories.
 
 **Instructors:** Philip Tan, Richard Eberhardt, and Andrew Grant
+

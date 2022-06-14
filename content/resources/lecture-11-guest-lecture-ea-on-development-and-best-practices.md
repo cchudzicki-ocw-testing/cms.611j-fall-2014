@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, Tim Cowan of EA Games describes his experiences writing software for game development.
 
 **Instructors:** Richard Eberhardt and Tim Cowan
+

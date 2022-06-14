@@ -27,3 +27,4 @@ video_metadata:
 **Description:** In this lecture, the students deliver their final presentations.
 
 **Instructors:** Philip Tan, Sara Verrilli, Richard Eberhardt, and Andrew Grant
+

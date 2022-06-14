@@ -29,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, the students present their second project, and are introduced to the third project of the class.
 
 **Instructors:** Richard Eberhardt
+

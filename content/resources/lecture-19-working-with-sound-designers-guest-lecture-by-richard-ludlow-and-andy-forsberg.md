@@ -29,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Richard Ludlow and Andy Forsberg from Hexany Audio discuss professional sound design for video games.
 
 **Instructors:** Philip Tan, Richard Eberhardt, Richard Ludlow, and Andy Forsberg
+

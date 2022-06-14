@@ -29,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, Jenna Hoffstein and Michael Carriere discuss managing a game studio through the perspective of the Indie Game Collective.
 
 **Instructors:** Richard Eberhardt, Jenna Hoffstein, and Michael Carriere
+

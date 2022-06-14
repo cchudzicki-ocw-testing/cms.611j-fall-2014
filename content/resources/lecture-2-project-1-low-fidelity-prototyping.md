@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, the professors discuss the principles of brainstorming and prototyping in video game development.
 
 **Instructors:** Philip Tan, Sara Verrilli, and Richard Eberhardt
+
