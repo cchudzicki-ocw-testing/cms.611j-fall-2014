@@ -35,3 +35,4 @@ video_metadata:
 **Description:** In this lecture, the students present their third project and are introduced to the fourth project of the class.
 
 **Instructors:** Philip Tan, Richard Eberhardt, and Pablo Suarez
+
