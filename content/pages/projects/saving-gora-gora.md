@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes the game "Saving Gora Gora" that was created by
+  a student group for the class.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

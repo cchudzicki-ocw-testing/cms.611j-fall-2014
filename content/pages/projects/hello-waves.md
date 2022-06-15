@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section features student work for the final project of the course.
+  Hello Waves is a game that deals with a topic known as forecast-based financing,
+  which aims to create new funding mechanisms for disaster preparedness.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

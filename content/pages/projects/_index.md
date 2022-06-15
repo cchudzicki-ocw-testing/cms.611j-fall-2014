@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides summaries, associated files, and references for
+  course projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
