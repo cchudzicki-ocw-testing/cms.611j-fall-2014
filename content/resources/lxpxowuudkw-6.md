@@ -7,6 +7,7 @@ description: Subtitle file for a a video providing a closer look at the developm
 file: /courses/cms-611j-creating-video-games-fall-2014/4907dc030b2364e83bfada05940aa7e8_lxpXowuUdKw.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

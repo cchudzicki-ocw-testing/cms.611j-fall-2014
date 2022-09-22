@@ -5,6 +5,7 @@ description: "Transcript of a lecture video. In this lecture, the professors dis
 file: /courses/cms-611j-creating-video-games-fall-2014/ca468cfd4ae3ea90fc14a29587b1bae6_0teK9aXB0GI.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

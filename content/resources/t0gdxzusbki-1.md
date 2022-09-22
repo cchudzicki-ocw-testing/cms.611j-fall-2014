@@ -5,6 +5,7 @@ description: Transcript of a video providing instructor insights on clearly comm
 file: /courses/cms-611j-creating-video-games-fall-2014/34b73f8ec037c95db6eda59f2c6c751e_T0GdXZusbKI.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

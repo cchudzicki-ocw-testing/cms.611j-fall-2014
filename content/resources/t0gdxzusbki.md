@@ -5,6 +5,7 @@ description: Subtitle file for a video providing instructor insights on clearly 
 file: /courses/cms-611j-creating-video-games-fall-2014/fe7deb978237cb3925ddfcd271fc697e_T0GdXZusbKI.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

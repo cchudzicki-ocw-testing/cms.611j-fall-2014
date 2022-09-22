@@ -5,6 +5,7 @@ description: "Transcript of a lecture video on Agile software development with a
 file: /courses/cms-611j-creating-video-games-fall-2014/25f3d4ada94fe79e2ed9860f303c62c5_nrfl6GAQy2s.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

@@ -6,6 +6,7 @@ description: "Transcript of a lecture video. In this lecture, Scot Osterweil of 
 file: /courses/cms-611j-creating-video-games-fall-2014/468f9b56277bbf5b06b60eb28036cb77_s8At7cnDelQ.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: A screenshot of the game Hello Waves.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Final Project: Hello Waves'
 parent_type: CourseSection

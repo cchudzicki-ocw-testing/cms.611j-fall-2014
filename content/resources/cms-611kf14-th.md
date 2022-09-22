@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of MIT students. Used with permission.
   image-alt: Image of a video game, featuring blue and black shapes on a green background.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Thumbnail of Hello Waves

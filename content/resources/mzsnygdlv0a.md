@@ -5,6 +5,7 @@ description: "Subtitle file for a lecture video. In this lecture, the students p
 file: /courses/cms-611j-creating-video-games-fall-2014/cde85d714f4579bc49907714881690b8_MZSnYgdlV0A.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

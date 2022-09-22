@@ -5,6 +5,7 @@ description: Transcript of a video offering instructor insights on teaching stud
 file: /courses/cms-611j-creating-video-games-fall-2014/9562949f96b88494b0dff5186ed80fc5_Y7cMih9O8es.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

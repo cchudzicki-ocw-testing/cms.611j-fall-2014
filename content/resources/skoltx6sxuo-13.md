@@ -4,6 +4,7 @@ description: Subtitle file for a video of the Heat Wave team's final presentatio
 file: /courses/cms-611j-creating-video-games-fall-2014/aefd53dfcb7f5fb2a57658bbd0b59706_sKolTx6sxUo.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

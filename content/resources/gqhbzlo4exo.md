@@ -5,6 +5,7 @@ description: Subtitle file for a lecture video. In this guest lecture, Luigi Gua
 file: /courses/cms-611j-creating-video-games-fall-2014/3f80583c0bd68651953fd57223a2a30c_gQHbZlo4Exo.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

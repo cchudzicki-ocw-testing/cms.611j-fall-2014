@@ -5,6 +5,7 @@ description: Subtitle file for a video of an interview with Lauren Merriman, a s
 file: /courses/cms-611j-creating-video-games-fall-2014/d148a1cc089554a4b157b72f0239dd1e_Od21y3eAwUo.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

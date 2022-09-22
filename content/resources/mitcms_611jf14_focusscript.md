@@ -5,6 +5,7 @@ file: /courses/cms-611j-creating-video-games-fall-2014/1294a56fa0b31fe20a0fead23
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Student Game Projects
 parent_type: CourseSection

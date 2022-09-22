@@ -5,6 +5,7 @@ description: Subtitle file for a lecture video on the principles of brainstormin
 file: /courses/cms-611j-creating-video-games-fall-2014/7655ca686aae547780443e00211353ff_j8ZGpRo8jd4.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

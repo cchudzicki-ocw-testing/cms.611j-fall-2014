@@ -7,6 +7,7 @@ description: Transcript of a video providing a closer look at the development of
 file: /courses/cms-611j-creating-video-games-fall-2014/50f1d47e9295f30a2bdba11fe1fdfbfd_lxpXowuUdKw.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

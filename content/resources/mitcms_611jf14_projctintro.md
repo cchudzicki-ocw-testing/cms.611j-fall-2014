@@ -6,6 +6,7 @@ file: /courses/cms-611j-creating-video-games-fall-2014/46826b1df71d01ab8491db9d9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides and Readings
 parent_type: CourseSection

@@ -5,6 +5,7 @@ description: Subtitle file for a lecture video on software version control and t
 file: /courses/cms-611j-creating-video-games-fall-2014/41afd9bea6005d07b06135cb783c2e29_2pfdTSZ-GUM.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
