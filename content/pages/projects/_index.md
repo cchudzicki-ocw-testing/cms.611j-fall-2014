@@ -2,13 +2,13 @@
 content_type: page
 description: This section provides summaries, associated files, and references for
   course projects.
+draft: false
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Student Game Projects
 uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 ---
-
 Project Summaries
 -----------------
 
