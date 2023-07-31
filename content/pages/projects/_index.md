@@ -44,7 +44,7 @@ uid: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
 - ["Early Warning, Early Action." International Federation of Red Cross and Red Crescent Societies, 2008. (PDF)](https://www.ifrc.org/Global/Publications/disasters/ew-ea-2008.pdf)
 - "Urban Risk Reduction (URR) Climate Assessment." International Federation of Red Cross and Red Crescent Societies, 2012.
 - ["World Disasters Report: Focus on Early Warning, Early Action." International Federation of Red Cross and Red Crescent Societies, 2009.](https://reliefweb.int/report/world/world-disasters-report-2009-focus-early-warning-early-action)
-- ["World Disasters Report: Focus on Urban Risk." International Federation of Red Cross and Red Crescent Societies, 2010.](https://www.ifrc.org/en/publications-and-reports/world-disasters-report/wdr2010/)
+- ["World Disasters Report: Focus on Urban Risk." International Federation of Red Cross and Red Crescent Societies, 2010.](https://reliefweb.int/report/world/world-disasters-report-focus-urban-risk-2010)
 - {{% resource_link "5a8468e9-9145-2be2-b0ed-53492a28e903" "Heatwave Fact Sheet (PDF)" %}}
 - [UNICEF Cholera Toolkit](http://www.unicef.org/cholera_toolkit/)
 - {{% resource_link "dcd30f00-e7d9-81be-feb4-53fc4d763c9a" "Cholera Game Proposal (PDF)" %}}
